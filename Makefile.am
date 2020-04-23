@@ -1,4 +1,5 @@
 bin_PROGRAMS = null-shell
+bin_PATH = /bin
 
 null_shell_SOURCES = \
 	null_shell.c
